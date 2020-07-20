@@ -27,21 +27,26 @@ let resumeData = {
   "education":[
       {
           "UniversityName":"Case Western Reserve University",
-          "Specialization":"Full-Stack Development",
-          "Graduation":"August 2020",
+          "specialization":"Full-Stack Development",
+          "MonthOfPassing":"August",
+          "YearOfPassing":"2020",
+          "Achievements":"Certificate"
       },
       {
           "UniversityName":"University of Akron",
-          "Specialization":"Master's of Social Work",
-          "Graduation":"May 2019",
+          "specialization":"Social Work",
+          "MonthOfPassing":"May",
+          "YearOfPassing":"2019",
+          "Achievements":"Master's degree"
       } 
   ],
 
   "work":[
       {
           "CompanyName":"Pathway Caring for Children",
-          "Specialization":"Mental Health Therapist",
-          "MonthOfLeaving":"February 2020",
+          "specialization":"Mental Health Therapist",
+          "MonthOfLeaving":"February",
+          "YearOfLeaving":"2020",
           "Achievments":"Started as an intern in 2016, became an employee 2016 and achieved status as a therapist in 2018.",
       }
   ],
@@ -49,17 +54,17 @@ let resumeData = {
       {
           "name":"Fitness Tracker",
           "description":"Monitors user's exercise",
-          "imgurl":"public/images/workout.jpg",
+          "imgurl":"../images/workout.jpg",
       },
       {
           "name":"Budget App",
           "description":"Tracks funds incoming and outgoing",
-          "imgurl":"public/images/budget.jpg",
+          "imgurl":"../images/budget.jpg",
       },
       {
           "name":"Burger Devour",
           "description":"Allows you to choose a burger and list it as eaten",
-          "imgurl":"public/images/burger.jpg",
+          "imgurl":"../images/burger.jpg",
       }
    ]
 };
