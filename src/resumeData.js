@@ -51,7 +51,7 @@ let resumeData = {
       }
   ],
   "portfolio":[
-      {
+    {
           "name":"Fitness Tracker",
           "description":"Monitors user's exercise",
           "imgurl":"../images/workout.jpg",
