@@ -6,7 +6,7 @@ let resumeData = {
     "I recently graduated a Full-Stack Web Development bootcamp, and look forward to an amazing career in a field that never stops educating its pupils.",
   socialLinks: [
     {
-      name: "linkedn",
+      name: "linkedin",
       url: "https://www.https://www.linkedin.com/in/thomasjohnm/",
       className: "fa fa-linkedin",
     },
