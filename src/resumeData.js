@@ -3,7 +3,7 @@ let resumeData = {
   name: "John Thomas",
   role: "Full-Stack Developer",
   roleDescription:
-    "I am finishing a web development bootcamp at Case Western Reserve University, and I looked forward to a career filled with excitement!",
+    "I recently graduated a Full-Stack Web Development bootcamp, and look forward to an amazing career in a field that never stops educating its pupils.",
   socialLinks: [
     {
       name: "linkedn",
