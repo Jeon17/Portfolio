@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+ 
 export default class Contact extends Component {
     render() {
         let resumeData = this.props.resumeData;
@@ -15,8 +15,8 @@ export default class Contact extends Component {
                 <div className="row">
                     <aside className="eigth columns footer-widgets">
                         <div className="widget">
-                            <h4>Media:
-                  {resumeData.socialLinks};
+                            <h4>LinkedIn:
+                  {resumeData.linkedinId}
                             </h4>
                         </div>
                     </aside>

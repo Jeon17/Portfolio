@@ -3,7 +3,7 @@ let resumeData = {
   name: "John Thomas",
   role: "Full-Stack Developer",
   roleDescription:
-    "I recently graduated a Full-Stack Web Development bootcamp, and look forward to an amazing career in a field that never stops educating its pupils.",
+    "I am beginning a new career in IT and could not be happier with the decision that opened the door to a world full of opportunity.",
   socialLinks: [
     {
       name: "linkedin",
