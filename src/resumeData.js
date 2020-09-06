@@ -8,12 +8,12 @@ let resumeData = {
   socialLinks: [
     {
       name: "linkedin",
-      url: "https://www.https://www.linkedin.com/in/thomasjohnm/",
+      url: "https://www.linkedin.com/in/thomasjohnm/",
       className: "fa fa-linkedin",
     },
     {
       name: "github",
-      url: "https://https://github.com/Jeon17",
+      url: "https://www.github.com/Jeon17",
       className: "fa fa-github",
     },
     {
