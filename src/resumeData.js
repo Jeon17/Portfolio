@@ -4,7 +4,7 @@ let resumeData = {
   role: "Full-Stack Developer",
   phone: " (330)-807-0756",
   email: " jthomassocial@gmail.com",
-  // address: "4465 Burbank Rd. Unit 1P, Wooster, OH 44691",
+  address2: "4465 Burbank Rd. Unit 1P, Wooster, OH 44691",
   roleDescription:
     "I am beginning a new career in IT and could not be happier with the decision that opened the door to a world full of opportunity.",
   socialLinks: [

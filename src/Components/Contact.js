@@ -22,7 +22,7 @@ export default class Contact extends Component {
                                 {resumeData.email}
                             </h4>
                             <h4>Address :
-                                {resumeData.address}
+                                {resumeData.address2}
                             </h4>
                         </div>
                     </aside>
