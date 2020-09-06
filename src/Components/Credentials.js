@@ -58,7 +58,6 @@ export default class Credentials extends Component {
                     </div>
                 </div>
 
-
                 {/* <div className="row skill">
 
                     <div className="three columns header-col">
