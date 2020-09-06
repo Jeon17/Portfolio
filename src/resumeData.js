@@ -21,7 +21,7 @@ let resumeData = {
       className: "fa fa-twitter"
     },
   ],
-  "aboutme":"I have a background in social work as a mental health therapist and have learned traits such as patience and strong problem solving skills. I anticipate a new career in development as exciting and vibrant!",
+  "aboutme":"I have a background in social work as a mental health therapist and have learned traits such as patience and strong problem solving skills. I seek to continue learning at a maximum capacity in order to reach success in programming.",
   "address":"Cleveland, Ohio",
   "website":"https://Jeon17.github.io",
   "education":[
