@@ -2,7 +2,9 @@ let resumeData = {
   imagebaseurl: "https://Jeon17.github.io/",
   name: "John Thomas",
   role: "Full-Stack Developer",
-  linkedIn: " https://www.linkedin.com/in/thomasjohnm/",
+  phone: " (330)-807-0756",
+  email: " jthomassocial@gmail.com",
+  address: "4465 Burbank Rd. Unit 1P, Wooster, OH 44691",
   roleDescription:
     "I am beginning a new career in IT and could not be happier with the decision that opened the door to a world full of opportunity.",
   socialLinks: [
