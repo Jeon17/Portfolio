@@ -2,7 +2,7 @@ let resumeData = {
   imagebaseurl: "https://Jeon17.github.io/",
   name: "John Thomas",
   role: "Full-Stack Developer",
-  linkedIn: "https://www.https://www.linkedin.com/in/thomasjohnm/",
+  linkedIn: " https://www.https://www.linkedin.com/in/thomasjohnm/",
   roleDescription:
     "I am beginning a new career in IT and could not be happier with the decision that opened the door to a world full of opportunity.",
   socialLinks: [
